@@ -78,7 +78,7 @@ def show_program():
     CodeName   Spykeeee
     version    full version
     Date       28/10/2018
-    Team       [S]pykeeee [-_-]       Email       spykeeees@gmail.com
+    Team       [S]pykeeee [-_-]                 Email       spykeeees@gmail.com
     Instagram   @4hs4n
 
 * if you find any errors or problems , please contact
